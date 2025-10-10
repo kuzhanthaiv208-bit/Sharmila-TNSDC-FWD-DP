@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Portfolio</title>
+<style>
+body {
+background-color: #f0f0f0;
+margin: 0;
+padding: 0;
+color: #333;
+}
+
+header {
+background-color: #4A90E2;
+color: white;
+text-align: center;
+padding: 40px 20px;
+}
+
+header img {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+margin-bottom: 20px;
+border: 5px solid #fff;
+}
+
+main {
+max-width: 800px;
+margin: 30px auto;
+padding: 0 20px;
+background-color: #fff;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+border-radius: 8px;
+}
+
+section {
+padding: 20px;
+border-bottom: 1px solid #ddd;
+}
+
+section:last-child {
+border-bottom: none;
+}
+
+h2 {
+color: #4A90E2;
+}
+
+ul {
+list-style: none;
+padding-left: 0;
+}
+
+ul li {
+margin: 5px 0;
+}
+
+footer {
+text-align: center;
+padding: 20px;
+background-color: #ddd;
+margin-top: 40px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<img src="https://via.placeholder.com/150" alt="My Photo">
+<h1>sharmila</h1>
+<p>Web Developer | Designer | Freelancer</p>
+</header>
+
+<main>
+<section>
+<h2>About Me</h2>
+<p>Hello! I'm sharmila, a passionate web developer with 3+ years of experience building websites and web applications. I love turning ideas into reality using code.</p>
+</section>
+
+<section>
+<h2>Skills</h2>
+<ul>
+<li>✔️ HTML, CSS, JavaScript</li>
+<li>✔️ React, Vue.js</li>
+<li>✔️ Node.js, Express</li>
+<li>✔️ Git & GitHub</li>
+<li>✔️ UI/UX Design</li>
+</ul>
+</section>
+
+<section>
+<h2>Contact</h2>
+<ul>
+<li>Email: kuzhanthaiv208@gmail.com</li>
+<li>Phone: +7604854573</li>
+</ul>
+</section>
+</main>
+
+<footer>
+&copy; 2025 sharmila | All rights reserved.
+</footer>
+
+</body>
+</html>
